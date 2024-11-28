@@ -20,19 +20,8 @@ This project focuses on designing and analyzing a CMOS inverter, a fundamental b
 ### Hardware
 - A basic computer setup capable of running the above simulation tools efficiently.
 
-## Usage Instructions
-1. **Set Up the Simulation:**
-   - Open the SPICE-based simulator (e.g., LTSpice or Cadence Virtuoso).
-   - Import the CMOS inverter circuit schematic (included in the project files).
-
-2. **Run Simulations:**
-   - Simulate the circuit for different input voltages to generate voltage transfer characteristics.
-   - Perform transient analysis to calculate rise/fall delays and switching behavior.
-   - Conduct DC analysis for noise margins and power dissipation.
-
-
 ## Deliverables
-- Circuit schematic and SPICE simulation files.
+- Circuit schematic and simulation files.
 - Verilog code for gate-level modeling.
 - Simulation results, including graphs for voltage transfer characteristics, noise margins, and power analysis.
 - Documentation explaining the analysis and findings.
